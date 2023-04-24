@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GuohaoDai's"
+title                    : "Guohao Dai's"
 title_separator          : "-"
 name                     : &name "Guohao Dai"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GuohaoDai"
+  name             : "Guohao Dai"
   avatar           : "me1.png"
   bio              : "An undergraduate student in Shenzhen University"
   location         : "Shenzhen, China"
