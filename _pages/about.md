@@ -14,12 +14,12 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 ## Experience
 
-- <div style="font-size:16px; line-height:1.5; margin:0; padding:0.1em;"><span style="float:right">Sept. 2019 - Jun. 2023</span>B.Eng., Shenzhen University, China</div>
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;"><span style="float:right">Sept. 2019 - Jun. 2023</span>B.Eng., Shenzhen University, China</div>
 
   - Major: Automation.
   - GPA: 89.8/100.0 (rank 2/147).
 
-- <div style="font-size:16px; line-height:1.5; margin:0; padding:0.1em;"><span style="float:right">Oct. 2021 - Mar. 2023</span>Research intern, Beihang University, China</div>
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;"><span style="float:right">Oct. 2021 - Mar. 2023</span>Research intern, Beihang University, China</div>
 
   - Topic: Yield analysis of circuits & Multi-fidelity fusion modeling.
   - Supervisor: Prof. Wei W. Xing.
