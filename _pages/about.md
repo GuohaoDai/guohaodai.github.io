@@ -46,8 +46,6 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 <br/>
 
-<br/>
-
 <a href="http://s11.flagcounter.com/more/QOb"><img src="https://s11.flagcounter.com/map/QOb/size_l/txt_828282/border_FFFFFF/pageviews_1/viewers_Visitors+are+from/flags_0/" alt="Free counters!" border="0"></a>
 
 
