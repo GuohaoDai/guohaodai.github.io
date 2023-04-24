@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guohao Dai(戴国浩)"
+title: "Guohao Dai (戴国浩)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
