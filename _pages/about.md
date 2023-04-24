@@ -28,8 +28,8 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 ## Selected Publications
 
-* [DAC'23](https://ispd.cc/ispd2023/){: .btn} Y. Liu*, **G. Dai\***, W. W. Xing, "Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold". *Design Automation Conference (DAC)*, 2023. (*Equal contribution) [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper} 
-* [ASPDAC'23](https://ispd.cc/ispd2023/){: .btn} S. Yin*, **G. Dai\***, W. W. Xing, "High-Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023.  (*Equal contribution) [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
+* [DAC'23](dac.com){: .btn} Y. Liu\*, **G. Dai\***, W. W. Xing, "Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold". *Design Automation Conference (DAC)*, 2023. (*Equal contribution) [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper} 
+* [ASPDAC'23](https://www.aspdac.com/aspdac2024/){: .btn} S. Yin\*, **G. Dai\***, W. W. Xing, "High-Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023.  (*Equal contribution) [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
 
 
