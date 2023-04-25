@@ -8,12 +8,15 @@ main:
 
   - title: "Awards"
     url: /awards/
-        
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Life"
     url: /life/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   - title: "Contact"
     url: /contact/
