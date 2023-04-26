@@ -28,7 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 ## Selected Publications
 
-* [DAC'23](dac.com){: .btn} Y. Liu\*, **G. Dai\***, W. W. Xing, "Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold". *Design Automation Conference (DAC)*, 2023. (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_DAC23.pdf){: .btn--paper} 
+* [DAC'23](www.dac.com){: .btn} Y. Liu\*, **G. Dai\***, W. W. Xing, "Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold". *Design Automation Conference (DAC)*, 2023. (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_DAC23.pdf){: .btn--paper} 
 * [ASPDAC'23](https://www.aspdac.com/aspdac2024/){: .btn} S. Yin\*, **G. Dai\***, W. W. Xing, "High-Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023.  (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_ASPDAC23.pdf){: .btn--paper}
 
 
