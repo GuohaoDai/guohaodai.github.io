@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai is a fourth-year undergraduate student majoring in Automation at [Shenzhen University](https://en.szu.edu.cn/), China. He was a research intern at [Beihang University](https://ev.buaa.edu.cn/)  under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** and **multi-fidelity fusion model**.
+Guohao Dai is a fourth-year undergraduate student majoring in Automation at [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He was a research intern at [Beihang University](https://ev.buaa.edu.cn/)  under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** and **multi-fidelity fusion model**.
 
 
 
