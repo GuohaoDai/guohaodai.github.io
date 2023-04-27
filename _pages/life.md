@@ -19,17 +19,11 @@ I have always had a passion for architecture, and from a young age, my dream was
 
 <div style="position: relative; width:100%;   aspect-ratio: 1 / 1;" id="myDIV">
     <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="../plugs/photo_album2/index.html" frameborder="1" scrolling="yes" width="200" height="200" id="myIframe"></iframe>
-    <script>
-      var iframe = document.getElementById('myDIV');
-      var contentHeight = iframe.contentWindow.document.body.scrollHeight;
-      iframe.style.height = contentHeight + 'px';
-        alert("Hello, world!");
-	</script>
 </div>
 
 
 
-7777666
+7777666123
 
 
 
