@@ -17,7 +17,7 @@ I am a compassionate person who cherishes my family and friends. I enjoy playing
 
 I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game *Minecraft*, where I would design and build everything from medieval castles to Gothic churches. I am a romantic person in some ways.
 
-<div style="position: relative; width:100%;   aspect-ratio: 1 / 0.5;" id="myDIV">
+<div style="position: relative; width:100%;   aspect-ratio: 1 / 0.5; border-width:1px;" id="myDIV">
     <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0; transform:scale(1);" src="../plugs/photo_album2/index.html" frameborder="1" scrolling="no" id="myIframe"></iframe>
 </div>
 
