@@ -15,17 +15,11 @@ I am a compassionate person who cherishes my family and friends. I enjoy playing
 
 ## Dream
 
-I have a great passion for architecture, and my childhood dream was to become an architect. My childhood dream was inspired by the game Minecraft, where I designed buildings such as medieval castles and Gothic churches. 
+I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game *Minecraft*, where I would design and build everything from medieval castles to Gothic churches.
 
-<img src="../images/minecraft/1.png" />
-
-
-
-<img src="../images/minecraft/2.jpg" />
-
-
-
-<img src="../images/minecraft/3.png" />
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="../plugs/photo_album/index_test.html" frameborder="1" scrolling="yes" width="320" height="240"></iframe>
+</div>
 
 
 

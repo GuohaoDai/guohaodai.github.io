@@ -5,5 +5,5 @@ permalink: /talks/
 author_profile: true
 ---
 
-* My  defense of the B.Eng thesis. [bilibili](https://bilibili.tv/){: .btn--paper}
+* The  defense of my B.Eng thesis. [bilibili](https://bilibili.tv/){: .btn--paper}
   * Shenzhen University, Apr. 25th, 2023.
