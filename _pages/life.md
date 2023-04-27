@@ -23,6 +23,7 @@ I have always had a passion for architecture, and from a young age, my dream was
       var iframe = document.getElementById('myDIV');
       var contentHeight = iframe.contentWindow.document.body.scrollHeight;
       iframe.style.height = contentHeight + 'px';
+        alert("Hello, world!");
 	</script>
 </div>
 
