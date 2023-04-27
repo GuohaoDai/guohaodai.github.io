@@ -20,7 +20,7 @@ I have always had a passion for architecture, and from a young age, my dream was
 <div style="position: relative; width:100%; height:500px;" id="myDIV">
     <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="../plugs/photo_album2/index.html" frameborder="1" scrolling="yes" width="200" height="200" id="myIframe"></iframe>
     <script>
-      var iframe = document.getElementById('myIframe');
+      var iframe = document.getElementById('myDIV');
       var contentHeight = iframe.contentWindow.document.body.scrollHeight;
       iframe.style.height = contentHeight + 'px';
 	</script>
@@ -28,7 +28,7 @@ I have always had a passion for architecture, and from a young age, my dream was
 
 
 
-7777
+7777666
 
 
 
