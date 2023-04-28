@@ -178,8 +178,11 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
     	    Disco Diffusion
     </div>
 </center>
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
+sid=1805929928&type=2&auto=0&width=320&height=66" 
+type="application/x-shockwave-flash"></object>
 
-
+666
 
 ## Musical Obsessions
 
