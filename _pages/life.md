@@ -23,11 +23,13 @@ I have always had a passion for architecture, and from a young age, my dream was
     </div>
 </div>
 
+
+
 <br/>Displayed above are my architectural creations from Minecraft, all of which I built brick by brick. Sadly, due to the passage of time, most of my Minecraft game files have been lost, and these are all the architectural works I could find.
 
 However, when the time came to choose my college major, I discovered that the architecture industry in China was on the decline, and architects often had to work long hours for low salaries. Therefore, I let go of my dream of becoming an architect and chose a major in engineering instead. I decided to study automation engineering, where I gained fundamental knowledge in various fields, including advanced mathematics, computer programming, circuit theory and control theory. This not only expanded my horizons but also enabled me to discover my passion for electronic design automation (EDA). Currently, I am dedicatedly researching this field, with a goal of pursuing a Ph.D in EDA or computer systems.
 
-
+123
 
 
 ## College
