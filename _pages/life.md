@@ -81,7 +81,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/vangogh.png" alt=""/>
+            src="../images/Diffusion/vangogh.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -93,7 +93,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/sketch.png" alt=""/>
+            src="../images/Diffusion/sketch.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -107,7 +107,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/picasso.png" alt=""/>
+            src="../images/Diffusion/picasso.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -119,7 +119,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/chinese.png" alt=""/>
+            src="../images/Diffusion/chinese.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -131,7 +131,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/steampunk.png" alt=""/>
+            src="../images/Diffusion/steampunk.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -145,7 +145,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/cyberpunk.png" alt=""/>
+            src="../images/Diffusion/cyberpunk.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -157,7 +157,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/cthulhu.png" alt=""/>
+            src="../images/Diffusion/cthulhu.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -169,7 +169,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
-            src="../images/Diffusion/alien.png" alt=""/>
+            src="../images/Diffusion/alien.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
@@ -194,7 +194,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 I love R&B singer *The Weeknd*. I even made a mix-up of 
 
-<div class="aplayer" data-id="442867526" data-server="netease" data-type="song" data-mode="single"></div>
+<div class="aplayer" style="width:80%;" data-id="442867526" data-server="netease" data-type="song" data-mode="single"></div>
 
 
 
