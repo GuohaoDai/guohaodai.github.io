@@ -110,7 +110,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="../images/Diffusion/chinese.png"alt=""/>
+            src="../images/Diffusion/alien.png" alt=""/>
             <br>
             <div style="color:orange; 
             display: inline-block;
@@ -148,7 +148,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="../images/Diffusion/cthulhu.png" alt=""/>
+            src="../images/Diffusion/alien.png" alt=""/>
             <br>
             <div style="color:orange; 
             display: inline-block;
