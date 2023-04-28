@@ -36,9 +36,148 @@ However, when the time came to choose my college major, I discovered that the ar
 
 ## College Life
 
-I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [here](https://guohaodai.github.io/){: .btn--code} to see how chilled I was! I love SZ.
+I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/){: .btn--code} to see how chilled I was! 
 
 SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college major, I think I would still choose SZU.
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="../images/CollegeLife/SZU.jpg" width = "70%" alt=""/>
+    <br>
+    <div style="color:orange; 
+    display: inline-block;
+    color: #999;
+    padding: 1px;">
+       Picture of SZU
+  	</div>
+</center>
+
+The above image is my favorite photograph that I captured at SZU. The prominent feature in the foreground is the Department of Mechanics and Control Engineering building. As a fun exercise, I applied the **Disco Diffusion** model to transform the image into several unique styles, resulting in fascinating outcomes.
+
+<center>
+    <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/CollegeLife/SZU.jpg" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Origin
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/vangogh.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Van Gogh
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/sketch.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Da Vinci's Manuscript
+            </div>
+        </div>
+    </div>
+    <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/picasso.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Picasso
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/chinese.png"alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Chinese Landscape Painting
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/steampunk.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Steampunk
+            </div>
+        </div>
+    </div>
+        <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/cyberpunk.png"alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Cyberpunk
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/cthulhu.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Cthulhu Mythos
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/alien.png" alt=""/>
+            <br>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Alien Style
+            </div>
+        </div>
+    </div>
+    <div style="color:orange; 
+                display: inline-block;
+                color: #000;
+                font-size:20px;
+                padding: 2px;">
+    	    Disco Diffusion
+    </div>
+</center>
 
 
 
