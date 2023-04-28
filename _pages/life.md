@@ -119,13 +119,13 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="../images/Diffusion/alien.png" alt=""/>
+            src="../images/Diffusion/chinese.png" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
             color: #999;
             padding: 1px;">
-               Chinese Landscape Painting
+               Chinese Painting
             </div>
         </div>
         <div style="width:100%;">
@@ -145,13 +145,25 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="../images/Diffusion/alien.png" alt=""/>
+            src="../images/Diffusion/cyberpunk.png" alt=""/>
             <br/>
             <div style="color:orange; 
             display: inline-block;
             color: #999;
             padding: 1px;">
-               Cthulhu Mythos11122
+               Cyberpunk
+            </div>
+        </div>
+        <div style="width:100%;">
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="../images/Diffusion/cthulhu.png" alt=""/>
+            <br/>
+            <div style="color:orange; 
+            display: inline-block;
+            color: #999;
+            padding: 1px;">
+               Cthulhu
             </div>
         </div>
         <div style="width:100%;">
@@ -163,19 +175,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
             display: inline-block;
             color: #999;
             padding: 1px;">
-               Cthulhu Mythos
-            </div>
-        </div>
-        <div style="width:100%;">
-            <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="../images/Diffusion/alien.png" alt=""/>
-            <br/>
-            <div style="color:orange; 
-            display: inline-block;
-            color: #999;
-            padding: 1px;">
-               Alien Style
+               Alien
             </div>
         </div>
     </div>
@@ -187,6 +187,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
     	    Disco Diffusion
     </div>
 </center>
+
 <object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
 sid=1805929928&type=2&auto=0&width=320&height=66" 
 type="application/x-shockwave-flash"></object>
@@ -201,3 +202,6 @@ I love R&B singer *The Weeknd*. I even made a mix-up of
 
 
 
+
+
+{% aplayer 666 me ../images/Diffusion/1.mp3 %}
