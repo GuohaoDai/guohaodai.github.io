@@ -5,6 +5,15 @@ permalink: /life/
 author_profile: true
 ---
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+
+
+
 ## About Me
 
 I am a compassionate person who cherishes my family and friends. I enjoy playing video games and watching TV shows on platforms like Netflix and others. The American pop culture has deeply influenced me.
@@ -187,3 +196,8 @@ type="application/x-shockwave-flash"></object>
 ## Musical Obsessions
 
 I love R&B singer *The Weeknd*. I even made a mix-up of 
+
+<div class="aplayer" data-id="31356499" data-server="netease" data-type="song" data-mode="single"></div>
+
+
+
