@@ -33,7 +33,6 @@ I have always had a passion for architecture, and from a young age, my dream was
 </div>
 
 
-
 <br/> 
 
 Displayed above are my architectural creations from Minecraft, all of which I built brick by brick **at the age of 14**. Sadly, due to the passage of time, most of my Minecraft game files have been lost, and these are all the architectural works I could find.
@@ -45,7 +44,7 @@ However, when the time came to choose my college major, I discovered that the ar
 
 ## College Life
 
-I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/){: .btn--code} to see how chilled I was! 
+I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/College_life_imgs/){: .btn--code} to see how chilled I was! 
 
 SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college major, I think I would still choose SZU.
 
