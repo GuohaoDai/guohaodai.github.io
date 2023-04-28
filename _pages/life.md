@@ -142,7 +142,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
             display: inline-block;
             color: #999;
             padding: 1px;">
-               Cyberpunk
+               Cthulhu Mythos
             </div>
         </div>
         <div style="width:100%;">
