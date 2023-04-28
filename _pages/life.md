@@ -193,7 +193,9 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 I love R&B singer *The Weeknd*. I even made a mix-up of 
 
+<center>
 <div class="aplayer" style="width:80%;" data-id="442867526" data-server="netease" data-type="song" data-mode="single"></div>
+</center>
 
 
 
