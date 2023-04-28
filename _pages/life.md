@@ -204,4 +204,4 @@ I love R&B singer *The Weeknd*. I even made a mix-up of
 
 
 
-{% aplayer 666 me ../images/Diffusion/1.mp3 %}
+{% aplayer 666 me ../files/1.mp3 %}
