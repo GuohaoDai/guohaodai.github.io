@@ -184,7 +184,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
                 color: #000;
                 font-size:20px;
                 padding: 2px;">
-    	    Disco Diffusion
+    	    Disco Diffusion Outputs
     </div>
 </center>
 
