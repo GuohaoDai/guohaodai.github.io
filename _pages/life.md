@@ -62,13 +62,13 @@ SZU has enabled me to construct my own methodology for facing the world and has 
   	</div>
 </center>
 
-The above image is my favorite photograph that I captured at SZU. The prominent feature in the foreground is the Department of Mechanics and Control Engineering building. As a fun exercise, I applied the **Disco Diffusion** model to transform the image into several unique styles, resulting in fascinating outcomes.
+The above image is my favorite photograph that I captured at SZU. The prominent feature in the foreground is the Department of Mechanics and Control Engineering building. Purely for entertainment and fun, I applied the **Disco Diffusion** model to transform the image into several unique styles, resulting in fascinating outcomes.
 
 <center>
     <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/CollegeLife/SZU.jpg" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -80,7 +80,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/vangogh.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -92,7 +92,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/sketch.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -106,7 +106,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
     <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/picasso.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -118,7 +118,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/chinese.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -130,7 +130,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/steampunk.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -144,7 +144,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         <div style="display: flex; align-items:center; flex-direction: row; width:100%;">
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/cyberpunk.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -156,7 +156,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/cthulhu.png" alt=""/>
             <br/>
             <div style="color:orange; 
@@ -168,7 +168,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
         </div>
         <div style="width:100%;">
             <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); padding:1pt;" 
             src="../images/Diffusion/alien.png" alt=""/>
             <br/>
             <div style="color:orange; 
