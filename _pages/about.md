@@ -25,6 +25,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       display: none;
     }
   }
+  </style>
 
   - Major: Automation.
   - GPA: 89.8/100.0 (rank 2/147).
@@ -48,12 +49,8 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
   
   - Topic: Yield analysis of circuits & Multi-fidelity fusion model.
   - Supervisor: Prof. Wei W. Xing.
-
-66678
-
-<div style="font-size:18px; width:100px; border:2px solid red">
-666777
-</div>
+  
+  
 
 ## Selected Publications
 
