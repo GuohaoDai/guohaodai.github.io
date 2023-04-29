@@ -15,18 +15,16 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 ## Experience
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
-      <span style="float:left">B.Eng., Shenzhen University, China</span>
+      <span>B.Eng., Shenzhen University, China</span>
       <span style="float:right" class="time">Sept. 2019 - Jun. 2023</span>
   </div>
   <style>
-  @media screen and (max-width: 1275px) {
+  @media screen and (max-width: 1280px) {
     .time {
   	float:right;
       display: none;
     }
   }
-
-  
 
   - Major: Automation.
   - GPA: 89.8/100.0 (rank 2/147).
@@ -40,7 +38,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       </span>
   </div>
   <style>
-  @media screen and (max-width: 1225px) {
+  @media screen and (max-width: 1295px) {
     .time {
   	float:right;
       display: none;
