@@ -215,7 +215,7 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
     </div>
 </center>
 
-666 I also created a music video for one of *The Weeknd*'s singles by compiling different video footage and imagery to complement the song and create a visual experience that resonates with its mood and tone.
+I also created a music video for one of *The Weeknd*'s singles by compiling different video footage and imagery to complement the song and create a visual experience that resonates with its mood and tone.
 
 <center>
     <div >
@@ -243,6 +243,3 @@ Out of all his songs, my favorite has to be "As You Are." The smooth and soulful
 </center>
 
 The Weeknd has truly made an indelible impact on the music industry, and I can't wait to see what he has in store for us next.
-
-
-
