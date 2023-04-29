@@ -204,7 +204,7 @@ Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. 
 back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
 
 <center>
-    <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="song" data-mode="single"></div>
+    <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="search" data-mode="single"></div>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
@@ -213,7 +213,7 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
     </div>
 </center>
 
-I also created a music video for one of *The Weeknd*'s singles by compiling different video footage and imagery to complement the song and create a visual experience that resonates with its mood and tone.
+666 I also created a music video for one of *The Weeknd*'s singles by compiling different video footage and imagery to complement the song and create a visual experience that resonates with its mood and tone.
 
 <center>
     <div >
