@@ -201,7 +201,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. What drew me to his music was the way he explores dark, explicit and conflicting themes, exposing me to a new cultural perspective. His unique and magnetic vocals always seem to resonate with me on a deeper emotional level.
 
-back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks, along with a mixed-media video for one of his singles.
+back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
 
 <center>
     <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="song" data-mode="single"></div>
@@ -213,6 +213,8 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
     </div>
 </center>
 
+I also created a music video for one of *The Weeknd*'s singles by compiling different video footage and imagery to complement the song and create a visual experience that resonates with its mood and tone.
+
 <center>
     <div >
     <iframe src="//player.bilibili.com/player.html?aid=19643843&bvid=BV15W411J7GF&cid=32031366&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="1" allowfullscreen="false" 
@@ -221,12 +223,10 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
                     display: inline-block;
                     color: #999;
                     padding: 1px;">
-            My mash-up video of The Weeknd
+            My Weeknd Mashup: A Visual Mixtape
     </div>
     </div>
 </center>
-
-
 
 Out of all his songs, my favorite has to be "As You Are." The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
 
