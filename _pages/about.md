@@ -28,7 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       </span>
   </div>
   <style>
-  @media screen and (max-width: 5000px) {
+  @media screen and (max-width: 700px) {
     .time {
       display: none;
     }
@@ -38,7 +38,11 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
   - Topic: Yield analysis of circuits & Multi-fidelity fusion model.
   - Supervisor: Prof. Wei W. Xing.
 
-6667
+66678
+
+<div style="font-size:18px; width:700px; border:2px solid red">
+666
+</div>
 
 ## Selected Publications
 
