@@ -28,7 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       </span>
   </div>
   <style>
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 1200px) {
     .time {
   	float:right;
       display: none;
@@ -41,7 +41,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 66678
 
-<div style="font-size:18px; width:700px; border:2px solid red">
+<div style="font-size:18px; width:1200px; border:2px solid red">
 666
 </div>
 
