@@ -121,7 +121,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 1px;">
-           Our crafted IoT smart baby care system
+           Our crafted IoT smart baby care system 
         </div>
     </div>
     <br>
