@@ -205,7 +205,6 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
 
 <center>
     <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="song" data-mode="single"></div>
-    <br>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
@@ -218,7 +217,6 @@ Out of all his songs, my favorite has to be "As You Are." The smooth and soulful
 
 <center>
     <div class="aplayer" style="width:80%;" data-id="2021360786" data-server="netease" data-type="song" data-mode="single"></div>
-    <br>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
