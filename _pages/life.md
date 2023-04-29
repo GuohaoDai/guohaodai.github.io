@@ -22,7 +22,7 @@ I am a compassionate person who cherishes my family and friends. I enjoy playing
 
 ## Dream
 
-I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. The news of the burning down of Notre-Dame de Paris was a heartbreaking moment for me. I feel deeply connected to the art and beauty of architecture, and in some ways, I consider myself a romantic, someone who is passionate about the majesty of the world around us.
+I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. I feel deeply connected to the art and beauty of architecture, and in some ways, I consider myself a romantic, someone who is passionate about the majesty of the world around us. So the news of the burning down of Notre-Dame de Paris was really a heartbreaking moment for me.
 
 <br/>
 
