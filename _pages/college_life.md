@@ -108,7 +108,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 1px;">
-           Our crafted Iot intellectual agriculture management system
+           Our crafted IoT intellectual agriculture management system
         </div>
     </div>
     <br>
