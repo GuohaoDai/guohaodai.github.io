@@ -204,11 +204,13 @@ Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. 
 back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
 
 <center>
-    <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="search" data-mode="single"></div>
+    <iframe frameborder="no" border="0" style="width:80%; padding-bottom:0px; margin-bottom:0px;" marginwidth="0" marginheight="0" width=50 height=86 src="//music.163.com/outchain/player?type=3&id=2521845920&auto=0&height=66"></iframe>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
-                padding: 1px;">
+                padding: 1px;
+                padding-top:0px;
+                margin-top:0px;">
         My mash-up audio of The Weeknd
     </div>
 </center>
@@ -236,9 +238,11 @@ Out of all his songs, my favorite has to be "As You Are." The smooth and soulful
                 display: inline-block;
                 color: #999;
                 padding: 1px;">
-        My favourite track - "The Weeknd - As you are"
+        My favourite track, The Weeknd - As you are
     </div>
 </center>
 
 The Weeknd has truly made an indelible impact on the music industry, and I can't wait to see what he has in store for us next.
+
+
 
