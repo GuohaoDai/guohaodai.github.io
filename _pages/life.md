@@ -213,6 +213,21 @@ back in 2017, as a tribute to his talent, I created a mash-up audio featuring so
     </div>
 </center>
 
+<center>
+    <div >
+    <iframe src="//player.bilibili.com/player.html?aid=19643843&bvid=BV15W411J7GF&cid=32031366&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="1" allowfullscreen="false" 
+    style="width:80%; aspect-ratio: 1 / 0.65"> </iframe>   
+    <div style="color:orange; 
+                    display: inline-block;
+                    color: #999;
+                    padding: 1px;">
+            My mash-up video of The Weeknd
+    </div>
+    </div>
+</center>
+
+
+
 Out of all his songs, my favorite has to be "As You Are." The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
 
 <center>
