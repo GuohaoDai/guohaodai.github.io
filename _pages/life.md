@@ -16,7 +16,7 @@ author_profile: true
 
 ## About Me
 
-I am a compassionate person who cherishes my family and friends. I enjoy playing video games and watching TV shows on platforms like Netflix and others. The American pop culture has deeply influenced me.
+I am a compassionate person who cherishes my family and friends. I enjoy playing video games and watching TV shows on platforms like Netflix and others. 
 
 
 
@@ -54,7 +54,7 @@ However, when the time came to choose my college major, I discovered that the ar
 
 I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/College_life_imgs/){: .btn--code} to see how chilled I was! 
 
-SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college major, I think I would still choose SZU.
+SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college, I think I would still choose SZU.
 
 <center>
     <img style="border-radius: 0.3125em;
@@ -199,16 +199,33 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 ## Musical Obsessions
 
-I have been a huge fan of *The Weeknd*, a Canadian R&B singer. What drew me to his music was the way he explores dark and conflicting themes, exposing me to a new cultural perspective. His unique and magnetic vocals always seem to resonate with me on a deeper emotional level.
+Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. What drew me to his music was the way he explores dark, explicit and conflicting themes, exposing me to a new cultural perspective. His unique and magnetic vocals always seem to resonate with me on a deeper emotional level.
 
-As a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks, along with a mixed-media video for one of his singles.
+back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks, along with a mixed-media video for one of his singles.
+
+<center>
+    <div class="aplayer" style="width:80%;" data-id="2521845920" data-server="netease" data-type="song" data-mode="single"></div>
+    <br>
+    <div style="color:orange; 
+                display: inline-block;
+                color: #999;
+                padding: 1px;">
+        My mash-up audio of The Weeknd
+    </div>
+</center>
 
 Out of all his songs, my favorite has to be "As You Are." The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
 
-The Weeknd has truly made an indelible impact on the music industry, and I can't wait to see what he has in store for us next
-
 <center>
-<div class="aplayer" style="width:80%;" data-id="442867526" data-server="netease" data-type="song" data-mode="single"></div>
+    <div class="aplayer" style="width:80%;" data-id="2021360786" data-server="netease" data-type="song" data-mode="single"></div>
+    <br>
+    <div style="color:orange; 
+                display: inline-block;
+                color: #999;
+                padding: 1px;">
+        My favourite track - "The Weeknd - As you are"
+    </div>
 </center>
 
+The Weeknd has truly made an indelible impact on the music industry, and I can't wait to see what he has in store for us next.
 
