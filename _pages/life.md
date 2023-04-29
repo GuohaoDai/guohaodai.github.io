@@ -34,7 +34,7 @@ I have always had a passion for architecture, and from a young age, my dream was
                 display: inline-block;
                 color: #999;
                 padding: 1px;
-                font-size:15px;">
+                font-size:17px;">
         My crafted designs in Minecraft
     </div>
 </div>
