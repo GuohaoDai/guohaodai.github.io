@@ -19,7 +19,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       <span style="float:right" class="time">Sept. 2019 - Jun. 2023</span>
   </div>
   <style>
-  @media screen and (max-width: 1400px) {
+  @media screen and (max-width: 1275px) {
     .time {
   	float:right;
       display: none;
@@ -40,7 +40,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
       </span>
   </div>
   <style>
-  @media screen and (max-width: 1300px) {
+  @media screen and (max-width: 1225px) {
     .time {
   	float:right;
       display: none;
