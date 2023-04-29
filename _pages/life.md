@@ -204,7 +204,7 @@ Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. 
 back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
 
 <center>
-    <iframe frameborder="no" border="0" style="width:80%; padding-bottom:0px; margin-bottom:0px;" marginwidth="0" marginheight="0" width=50 height=86 src="//music.163.com/outchain/player?type=3&id=2521845920&auto=0&height=66"></iframe>
+    <iframe frameborder="no" border="0" style="width:60%; padding-bottom:0px; margin-bottom:0px;" marginwidth="0" marginheight="0" width=50 height=86 src="//music.163.com/outchain/player?type=3&id=2521845920&auto=0&height=66"></iframe>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
@@ -230,10 +230,10 @@ I also created a music video for one of *The Weeknd*'s singles by compiling diff
     </div>
 </center>
 
-Out of all his songs, my favorite has to be "As You Are." The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
+Out of all his songs, my favorite has to be "As You Are". The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
 
 <center>
-    <div class="aplayer" style="width:80%;" data-id="2021360786" data-server="netease" data-type="song" data-mode="single"></div>
+    <div class="aplayer" style="width:60%;" data-id="2021360786" data-server="netease" data-type="song" data-mode="single"></div>
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
