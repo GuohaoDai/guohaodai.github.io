@@ -33,8 +33,8 @@ I have always had a passion for architecture, and from a young age, my dream was
     <div style="color:orange; 
                 display: inline-block;
                 color: #999;
-                padding: 1px;
-                font-size:17px;">
+                padding: 0px;
+                font-size:16px;">
         My crafted designs in Minecraft
     </div>
 </div>
@@ -199,7 +199,13 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 ## Musical Obsessions
 
-I love R&B singer *The Weeknd*. I even made a mix-up of 
+I have been a huge fan of *The Weeknd*, a Canadian R&B singer. What drew me to his music was the way he explores dark and conflicting themes, exposing me to a new cultural perspective. His unique and magnetic vocals always seem to resonate with me on a deeper emotional level.
+
+As a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks, along with a mixed-media video for one of his singles.
+
+Out of all his songs, my favorite has to be "As You Are." The smooth and soulful melody, combined with his signature vocal delivery, always leaves me feeling a sense of melancholic nostalgia.
+
+The Weeknd has truly made an indelible impact on the music industry, and I can't wait to see what he has in store for us next
 
 <center>
 <div class="aplayer" style="width:80%;" data-id="442867526" data-server="netease" data-type="song" data-mode="single"></div>
