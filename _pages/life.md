@@ -26,21 +26,17 @@ I have always had a passion for architecture, and from a young age, my dream was
 
 <br/>
 
-<div>
-    <div style="display: flex; align-items:center; flex-direction: column; width:100%; transform:scale(1.24);">
-        <div style="position: relative; width:80%;   aspect-ratio: 1 / 0.65; border-width:1px;" id="myDIV">
-            <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="../plugs/photo_album2/index.html" frameborder="0" scrolling="no" id="myIframe"></iframe>
-        </div>
+<div style="display: flex; align-items:center; flex-direction: column; width:100%; transform:scale(1.24);">
+    <div style="position: relative; width:80%;   aspect-ratio: 1 / 0.65; border-width:1px;" id="myDIV">
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="../plugs/photo_album2/index.html" frameborder="0" scrolling="no" id="myIframe"></iframe>
     </div>
-    <br>
-    <center>
-        <div style="color:orange; 
-                    display: inline-block;
-                    color: #999;
-                    padding: 1px;">
-            My designed buildings from Minecraft
-        </div>
-    </center>
+    <div style="color:orange; 
+                display: inline-block;
+                color: #999;
+                padding: 1px;
+                font-size:13.1px;">
+        My crafted designs in Minecraft
+    </div>
 </div>
 
 
