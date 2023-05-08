@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Moments at Shenzhen University"
-permalink: /College_life_imgs/
+permalink: /szu_life_imgs/
 author_profile: true
 ---
 
@@ -126,7 +126,6 @@ author_profile: true
     </div>
     <br>
 </center>
-
 
 
 

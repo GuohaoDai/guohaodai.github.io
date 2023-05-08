@@ -22,7 +22,7 @@ I am a compassionate person who cherishes my family and friends. I enjoy playing
 
 ## Dream
 
-I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. I feel deeply connected to the art and beauty of architecture, and in some ways, I consider myself a romantic, someone who is passionate about the majesty of the world around us. So the news of the burning down of Notre-Dame de Paris was really a heartbreaking moment for me.
+I have always had a passion for architecture, and from a young age, my dream was to become an architect. This dream was initially sparked by playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. I feel deeply connected to the art and beauty of architecture, and in some ways, I consider myself a romantic, someone who is passionate about the majesty of the world around us. So the news of the burning down of Notre-Dame de Paris was really a heartbreaking moment for me, as it is a true masterpiece and symbol of human achievement.
 
 <br/>
 
@@ -50,9 +50,9 @@ However, when the time came to choose my college major, I discovered that the ar
 
 
 
-## College Life
+## Campus Life
 
-I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely people and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/College_life_imgs/){: .btn--code} to see how chilled I was! 
+I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely friends and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/szu_life_imgs/){: .btn--code} to see how chilled out I was! 
 
 SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college, I think I would still choose SZU.
 
@@ -201,7 +201,7 @@ The above image is my favorite photograph that I captured at SZU. The prominent 
 
 Ever since 2015, I have been a huge fan of *The Weeknd*, a Canadian R&B singer. What drew me to his music was the way he explores dark, explicit and conflicting themes, exposing me to a new cultural perspective. His unique and magnetic vocals always seem to resonate with me on a deeper emotional level.
 
-back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
+Back in 2017, as a tribute to his talent, I created a mash-up audio featuring some of my favorite *Weeknd* tracks.
 
 <center>
     <div>
