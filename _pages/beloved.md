@@ -219,6 +219,6 @@ Our journey has been filled with both joy and sorrow. We have held each other in
 
 
 
-###### *Guohao Dai*
+*Guohao Dai*
 
-###### on *5/27/2023*
+on *5/27/2023*
