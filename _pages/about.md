@@ -28,7 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
   </style>
 
   - Major: Automation.
-  - GPA: 90.0/100.0 (rank ***<u>1/147</u>***)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
+  - GPA: 90.0/100.0 (rank ***<u><font color=#FF0000 >1/147</font></u>***)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>
@@ -56,6 +56,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 * [DAC'23](https://dac.com/){: .btn} Y. Liu\*, **G. Dai\***, W. W. Xing, "Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold". *Design Automation Conference (DAC)*, 2023. (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_DAC23.pdf){: .btn--paper} 
 * [ASPDAC'23](https://www.aspdac.com/aspdac2024/){: .btn} S. Yin\*, **G. Dai\***, W. W. Xing, "High-Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023.  (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_ASPDAC23.pdf){: .btn--paper}
+* [ICCAD'23](https://iccad.com/){: .btn} A submission is under review. Waiting for update! [to appear](){: .btn--paper} 
 
 
 
