@@ -100,7 +100,7 @@ It was during a tempestuous stormy night that we found ourselves walking reckles
     </div>
 </center>
 
-In those intimate moments, Yuanyuan became increasingly captivated by my sincerity, innocent laughter, and profound love. As the night wore on, sleep eluded us as we indulged in passionate kisses and tender embraces, creating cherished memories that would forever mark the pinnacle of our affection.
+In those intimate moments, Yuanyuan became increasingly captivated by my sincerity, innocent laughter, and profound love. As the night wore on, sleep eluded us as we indulged in passionate kisses and tender embraces, creating cherished memories that would forever mark the significant milestone of our affection.
 
 <center>
     <div>
