@@ -215,7 +215,7 @@ The following morning, I accompanied Yuanyuan back to her campus, cherishing eve
 
 ## The Ups and Downs: Embracing Life Together 
 
-Our journey has been filled with both joy and sorrow. We have held each other in times of sadness, shedding tears of empathy, and shared moments of laughter that echo through our hearts. Our love has led us to explore the deepest expressions of intimacy, creating an unbreakable bond. Lei Yuanyuan holds an extraordinary place in my heart, and regardless of what the future holds, my fervent wish is for us to remain together, forever entwined in a love that knows no bounds.
+Our journey has been filled with both joy and sorrow. We have held each other in times of sadness, shedding tears of empathy, and shared moments of laughter that echo through our hearts. Our love has led us to explore the deepest expressions of intimacy, creating an unbreakable bond. Yuanyuan Lei holds an extraordinary place in my heart, and regardless of what the future holds, my fervent wish is for us to remain together, forever entwined in a love that knows no bounds.
 
 
 
