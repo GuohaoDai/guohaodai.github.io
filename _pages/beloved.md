@@ -5,7 +5,7 @@ permalink: /beloved/
 author_profile: true
 ---
 
-This page contains my romantic love story.
+This page contains our romantic love story.
 
 
 
