@@ -5,9 +5,9 @@ permalink: /beloved/
 author_profile: true
 ---
 
-<br/>
+This page contains my romantic love story.
 
-# 
+
 
 ## Introduction 
 
