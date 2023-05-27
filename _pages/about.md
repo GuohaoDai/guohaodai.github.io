@@ -28,7 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
   </style>
 
   - Major: Automation.
-  - GPA: 90.0/100.0 (rank <em><strong><span style="color:#FF0000"><u>1/147</u></span></strong></em>)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
+  - GPA: 90.0/100.0 (rank ***<span style="color:#FF0000"><u>1/147</u></span>***)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
 
 - 
   
