@@ -14,7 +14,6 @@ redirect_from:
 ## button color
 
 * [test](){: .btn--research} [test](){: .btn--inverse} [test](){: .btn--light-outline} [test](){: .btn--info} [test](){: .btn--warning} [test](){: .btn--success} [test](){: .btn--danger} [test](){: .btn--disabled} 
-* [institutional](){: .btn--institutional}
-* [aa](){: .btn--provincial}
-* [bb](){: .btn--national}
+* [aa](){: .btn--institutional}
+* [bb](){: .btn--provincial}
 * [cc](https://guohaodai.github.io/files/awd_star_learn_22.pdf){: .btn--national}
