@@ -15,6 +15,6 @@ redirect_from:
 
 * [test](){: .btn--research} [test](){: .btn--inverse} [test](){: .btn--light-outline} [test](){: .btn--info} [test](){: .btn--warning} [test](){: .btn--success} [test](){: .btn--danger} [test](){: .btn--disabled} 
 * [institutional](){: .btn--institutional}
-* [provincial](){: .btn--provincial}
-* [national](){: .btn--national}
-* [pdf](https://guohaodai.github.io/files/awd_star_learn_22.pdf){: .btn--paper}
+* [aa](){: .btn--provincial}
+* [bb](){: .btn--national}
+* [cc](https://guohaodai.github.io/files/awd_star_learn_22.pdf){: .btn--national}
