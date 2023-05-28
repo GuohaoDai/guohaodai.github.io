@@ -17,5 +17,4 @@ redirect_from:
 * [institutional](){: .btn--institutional}
 * [provincial](){: .btn--provincial}
 * [national](){: .btn--national}
-* 666555777
 * [pdf](https://guohaodai.github.io/files/awd_star_learn_22.pdf){: .btn--paper}
