@@ -114,7 +114,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none !important;
-    background-color: rgb(178, 251, 31) !important;
+    background-color: $ins-color;
     border: 0 !important;
     border-radius: $border-radius;
     cursor: pointer;
@@ -133,7 +133,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none !important;
-    background-color: rgb(251, 244, 31) !important;
+    background-color: $pro-color;
     border: 0 !important;
     border-radius: $border-radius;
     cursor: pointer;
@@ -152,7 +152,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none !important;
-    background-color: rgb(251, 167, 31) !important;  
+    background-color: $nat-color;
     border: 0 !important;
     border-radius: $border-radius;
     cursor: pointer;
