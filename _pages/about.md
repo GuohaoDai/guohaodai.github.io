@@ -12,7 +12,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
 
 
 
-- ## Experience
+## Experience
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>B.Eng., Shenzhen University, China</span>
