@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [collegiate](){: .btn--institutional} The award of *the 100 Top Graduate Thesis Collection at Shenzhen University*, 2023.  [link](https://www1.szu.edu.cn/board/view.asp?id=498232){: .btn} [pdf](https://guohaodai.github.io/files/pub_UGThesis_23.pdf){: .btn--paper} [thesis](https://guohaodai.github.io/files/pub_UGThesis_23.pdf){: .btn--code} 
+* [collegiate](){: .btn--institutional} The award of *the 100 Top Graduate Thesis Collection at Shenzhen University*, 2023.  [link](https://www1.szu.edu.cn/board/view.asp?id=498232){: .btn} [pdf](https://guohaodai.github.io/files/awd_thesis_23.pdf){: .btn--paper} [thesis](https://guohaodai.github.io/files/pub_UGThesis_23.pdf){: .btn--code} 
 * [collegiate](){: .btn--institutional} *Honours Bachelor's degree*, Shenzhen University (Awarded for exceptional academic performance in competitions, research, and GPA), 2023. [link](https://www1.szu.edu.cn/board/view.asp?id=495863){: .btn} [pdf](https://guohaodai.github.io/){: .btn--paper}
 * [collegiate](){: .btn--institutional} *Outstanding Undergraduate Graduate*, Shenzhen University (Recognized for outstanding achievements throughout undergraduate studies). [link](https://www1.szu.edu.cn/board/view.asp?id=495657){: .btn} [pdf](https://guohaodai.github.io/files/){: .btn--paper}
 * [collegiate](){: .btn--institutional} Second-Class Award, *Star of Learning of Shenzhen University*, 2022. [link](https://www1.szu.edu.cn/board/view.asp?id=482922){: .btn} [pdf](https://guohaodai.github.io/files/awd_star_learn_22.pdf){: .btn--paper}
