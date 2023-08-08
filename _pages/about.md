@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai is a fourth-year undergraduate student majoring in Automation at [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He was a research intern at [Beihang University](https://ev.buaa.edu.cn/)  under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** and **multi-fidelity fusion model**. 
+Guohao Dai is a fourth-year undergraduate student majoring in Automation at [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He conducted research under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** & **multi-fidelity fusion model**. 
 
 
 
-## Experience
+## Education
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>B.Eng., Shenzhen University, China</span>
@@ -28,26 +28,7 @@ Guohao Dai is a fourth-year undergraduate student majoring in Automation at [She
   </style>
   - Major: Automation.
   - GPA: 90.0/100.0 (rank ***<span style="color:#FF0000"><u>1/147</u></span>***)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
-  - Bachelor's Degree with Honours **&** Outstanding Graduate Award.
-  
-- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
-      <span>
-          Research intern, Beihang University, China
-      </span>
-      <span style="float:right" class="time">
-          Oct. 2021 - Mar. 2023
-      </span>
-  </div>
-  <style>
-  @media screen and (max-width: 1295px) {
-    .time {
-  	float:right;
-      display: none;
-    }
-  }
-  </style>
-  - Supervisor: Prof. Wei W. Xing.
-  - Topic: Yield analysis of circuits **&** Multi-fidelity fusion model.
+  - Award: Bachelor's Degree with Honours **&** Outstanding Graduate Award.
 
 
 
