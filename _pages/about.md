@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai earned his degree of B.Eng. in 2023 at [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He conducted research under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** & **multi-fidelity fusion models**. 
+GGuohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He engaged in research under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** & **multi-fidelity fusion models**. 
 
 
 
@@ -42,8 +42,8 @@ Guohao Dai earned his degree of B.Eng. in 2023 at [Shenzhen University](https://
 
 ## Selected Awards
 
-* [HUAWEI'21](http://iot.sjtu.edu.cn/show.aspx?info_lb=36&info_id=2850&flag=2){: .btn} **G. Dai**, G. Ma, X. Liu, S. Chen, First-Class Award in Final Contest, *HUAWEI CUP National Undergraduate internet of things (IoT) Design Contest*, 2021. (<u>Our team ranks top 40 in 1475 teams</u>) [pdf](https://guohaodai.github.io/files/awd_HW_final_21.pdf){: .btn--paper} 
-* [ICAN'21](http://www.g-ican.com/home/index){: .btn} **G. Dai**, S. Chen, G. Ma, T. Luo, Third-Class Award in Final Contest, *ICAN Innovation Contest*, 2021. [pdf](https://guohaodai.github.io/files/awd_ICAN_final_21.pdf){: .btn--paper}
+* **G. Dai**, G. Ma, X. Liu, S. Chen, First-Class Award in Final Contest, *HUAWEI CUP National Undergraduate internet of things (IoT) Design Contest*, 2021. (<u>Our team ranks top 40 in 1475 teams</u>) [pdf](https://guohaodai.github.io/files/awd_HW_final_21.pdf){: .btn--paper} 
+* **G. Dai**, S. Chen, G. Ma, T. Luo, Third-Class Award in Final Contest, *ICAN Innovation Contest*, 2021. [pdf](https://guohaodai.github.io/files/awd_ICAN_final_21.pdf){: .btn--paper}
 
 <br/>
 
