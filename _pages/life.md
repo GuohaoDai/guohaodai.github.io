@@ -16,7 +16,7 @@ author_profile: true
 
 ## About Me
 
-I am a compassionate person who cherishes my family and friends. I enjoy playing video games and watching TV shows on platforms like Netflix and others. 
+I am a compassionate person who cherishes my family and friends. I enjoy playing video games and watching TV shows. 
 
 
 
@@ -45,14 +45,14 @@ I have always had a passion for architecture, and from a young age, my dream was
 
 Displayed above are my architectural creations from Minecraft, all of which I built brick by brick **at the age of 14**. Sadly, due to the passage of time, most of my Minecraft game files have been lost, and these are all the architectural works I could find.
 
-However, when the time came to choose my college major, I discovered that the architecture industry in China was on the decline, and architects often had to work long hours for low salaries. Therefore, I let go of my dream of becoming an architect and chose a major in engineering instead. I decided to study automation engineering, where I gained fundamental knowledge in various fields, including advanced mathematics, computer programming, circuit theory and control theory. This not only expanded my horizons but also enabled me to discover my passion for electronic design automation ***(EDA)***. Currently, I am dedicatedly researching this field, with a goal of pursuing a Ph.D in EDA or computer systems.
+However, when the time came to choose my college major, I discovered that I had a strong fascination with engineering.  Therefore, I opted to explore my growing interest in engineering and decided to pursue a major in automation engineering. This academic path granted me a foundation across a range of disciplines, including advanced mathematics, computer programming, circuit theory, and control theory. Through this educational journey, my horizons expanded, and I also discovered my passion for electronic design automation (EDA). Currently, I am deeply engaged in researching this field, with a clear goal of pursuing a Ph.D. in EDA or computer systems.
 
 
 
 
 ## Campus Life
 
-I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely friends and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/szu_life_imgs/){: .btn--code} to see how chilled out I was! 
+I had been living in a small town until I came to Shenzhen University (SZU), where I spent four precious years. This international city, Shenzhen, has made a great difference to me. Here, I met a group of lovely friends and professors who have been so kind to me. Click [HERE](https://guohaodai.github.io/szu_life_imgs/){: .btn--code} to see how chill I was! 
 
 SZU has enabled me to construct my own methodology for facing the world and has given me clarity on what I should pursue. If I could go back to the moment of choosing my college, I think I would still choose SZU.
 
