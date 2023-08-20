@@ -38,13 +38,6 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
 * [ASPDAC'23](https://www.aspdac.com/aspdac2024/){: .btn} S. Yin\*, **G. Dai\***, W. W. Xing, "High-Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction". *Asia and South Pacific Design Automation Conference* (***ASP-DAC***), 2023.  (*<u>Equal contribution</u>) [pdf](https://guohaodai.github.io/files/My_ASPDAC23.pdf){: .btn--paper}
 * [ICCAD'23](https://iccad.com/){: .btn} Y. Liu, **G. Dai**, Y. Cheng, W. Kang, W. W. Xing, "OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits". *International Conference on Computer-Aided Design* (***ICCAD***), 2023.
 
-
-
-## Selected Awards
-
-* **G. Dai**, G. Ma, X. Liu, S. Chen, First-Class Award in Final Contest, *HUAWEI CUP National Undergraduate internet of things (IoT) Design Contest*, 2021. (<u>Our team ranks top 40 in 1475 teams</u>) [pdf](https://guohaodai.github.io/files/awd_HW_final_21.pdf){: .btn--paper} 
-* **G. Dai**, S. Chen, G. Ma, T. Luo, Third-Class Award in Final Contest, *ICAN Innovation Contest*, 2021. [pdf](https://guohaodai.github.io/files/awd_ICAN_final_21.pdf){: .btn--paper}
-
 <br/>
 
 <br/>
