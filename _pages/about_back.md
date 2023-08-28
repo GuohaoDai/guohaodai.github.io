@@ -4,8 +4,8 @@ title: "Guohao Dai (戴国浩)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_back/
+  - /about_back.html
 ---
 
 Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He engaged in research under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with **yield analysis of circuits** & **multi-fidelity fusion models**. 
@@ -41,4 +41,8 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
 <br/>
 
 <br/>
+
+<a href="http://s11.flagcounter.com/more/QOb"><img src="https://s11.flagcounter.com/map/QOb/size_l/txt_828282/border_FFFFFF/pageviews_1/viewers_Visitors+are+from/flags_0/" alt="Free counters!" border="0"></a>
+
+
 
