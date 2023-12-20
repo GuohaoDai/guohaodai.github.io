@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [global](){: .btn--code} Best Paper Award Nomination, ICCAD, 2023. [link](https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_Proceedings_v3_f24f2addb7.pdf){: .btn} [pdf](https://guohaodai.github.io/files/awd_bpa_ICCAD23.pdf){: .btn--paper}
+* [worldwide](){: .btn--code} Best Paper Award Nomination, ICCAD, 2023. [link](https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_Proceedings_v3_f24f2addb7.pdf){: .btn} [pdf](https://guohaodai.github.io/files/awd_bpa_ICCAD23.pdf){: .btn--paper}
 * [collegiate](){: .btn--institutional} The award of *the 100 Top Graduate Thesis Collection at Shenzhen University*, 2023.  [link](https://www1.szu.edu.cn/board/view.asp?id=498232){: .btn} [pdf](https://guohaodai.github.io/files/awd_thesis_23.pdf){: .btn--paper} [thesis](https://guohaodai.github.io/files/pub_UGThesis_23.pdf){: .btn--code} 
 * [collegiate](){: .btn--institutional} *Bachelor's Degree with Honours*, Shenzhen University (Awarded for exceptional academic performance in competitions, research, and GPA), 2023. [link](https://www1.szu.edu.cn/board/view.asp?id=495863){: .btn} [pdf](https://guohaodai.github.io/files/awd_hondegree_23.pdf){: .btn--paper}
 * [collegiate](){: .btn--institutional} *Outstanding Undergraduate Graduate*, Shenzhen University (Recognized for outstanding achievements throughout undergraduate studies), 2023. [link](https://www1.szu.edu.cn/board/view.asp?id=495657){: .btn} [pdf](https://guohaodai.github.io/files/awd_outgrad_23.pdf){: .btn--paper}
