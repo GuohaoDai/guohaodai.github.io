@@ -15,7 +15,22 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
 ## Education
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
-      <span>B.Eng., Shenzhen University, China</span>
+      <span>M.Phil., Hong Kong University of Science and Technology (Guangzhou)</span>
+      <span style="float:right" class="time">Sept. 2024 - Jul. 2025 (Expected)</span>
+  </div>
+  <style>
+  @media screen and (max-width: 1280px) {
+    .time {
+  	float:right;
+      display: none;
+    }
+  }
+  </style>
+
+  - Major: Microelectronics.
+
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
+      <span>B.Eng., Shenzhen University</span>
       <span style="float:right" class="time">Sept. 2019 - Jun. 2023</span>
   </div>
   <style>
@@ -26,9 +41,9 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
     }
   }
   </style>
+
   - Major: Automation.
-  - GPA: 90.0/100.0 (rank ***<span style="color:#FF0000"><u>1/147</u></span>***)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
-  - Award: Bachelor's Degree with Honours **&** Outstanding Graduate Award.
+  - GPA: 90.0/100.0 (rank **<span style="color:#0">1/147</span>**)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
 
 
 
