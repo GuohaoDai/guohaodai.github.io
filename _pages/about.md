@@ -28,6 +28,7 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
   </style>
 
   - Major: Microelectronics.
+  - GPA: N/A.
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>B.Eng., Shenzhen University</span>
