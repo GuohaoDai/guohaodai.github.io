@@ -15,7 +15,7 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
 ## Education
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
-      <span>M.Phil., Hong Kong University of Science and Technology (Guangzhou)</span>
+      <span>M.Phil., HKUST (GZ)</span>
       <span style="float:right" class="time">Sept. 2024 - Jul. 2025 (Expected)</span>
   </div>
   <style>
