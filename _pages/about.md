@@ -44,7 +44,7 @@ Guohao Dai obtained his B.Eng. degree in 2023 from [Shenzhen University](https:/
   </style>
 
   - Major: Automation.
-  - GPA: 90.0/100.0 (rank **<span style="color:#0">1/147</span>**)  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}. 
+  - GPA: 90.0/100.0 (rank **<span style="color:#0">1/147</span>**).  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}
 
 
 
