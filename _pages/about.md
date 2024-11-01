@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. Previously, He engaged in research under the supervision of [Prof. Wei W. Xing](https://wayxing.github.io/). He is familiar with yield analysis of circuits  and multi-fidelity fusion models. 
+Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. He will be attending [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a M.Phil. student. 
 
 
 
