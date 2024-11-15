@@ -8,11 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. He will be attending [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a M.Phil. student. 
+Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. He is currently an M.Phil. student at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) and conducts research under the supervision of Prof. Yuzhe Ma.
 
 
 
 ## Education
+
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
+      <span>M.Phil., HKUST(GZ), China</span>
+      <span style="float:right" class="time">Sept. 2024 - Jun. 2025 (Expected)</span>
+  </div>
+  <style>
+  @media screen and (max-width: 1280px) {
+    .time {
+  	float:right;
+      display: none;
+    }
+  }
+  </style>
+
+
+  - Major: Microlectronics.
+  - GPA: N/A.
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>B.Eng., Shenzhen University, China</span>
@@ -27,6 +44,7 @@ Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](htt
   }
   </style>
 
+  
   - Major: Automation.
   - GPA: 90.0/100.0 (rank **<span style="color:#0">1/147</span>**).  [transcript](https://guohaodai.github.io/files/SZU_transcript.pdf){: .btn--code}
 
