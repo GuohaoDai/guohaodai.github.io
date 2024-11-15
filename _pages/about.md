@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. He is currently an M.Phil. student at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) and conducts research under the supervision of Prof. Yuzhe Ma.
+Guohao Dai has received his B.Eng. degree in 2023 from [Shenzhen University](https://en.szu.edu.cn/), China. He is currently an M.Phil. student at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) and conducts research on Electronic Design Automation under the supervision of Prof. Yuzhe Ma.
 
 
 
