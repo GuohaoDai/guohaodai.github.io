@@ -22,7 +22,25 @@ I am a compassionate person who cherishes my family and friends.
 
 ## Hobby
 
-I have always had a passion for architecture design from a young age. I love playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. 
+I love rock climbing and working out in the gym. I have joined the rock climbing club in HKUST(GZ). I climb regularly!
+
+<center>
+    <div style="width:60%;">
+        <img style="border-radius: 0.3em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="../images/CollegeLife/climb.jpg" width = "70%" alt=""/>
+    </div>
+    <div style="color:orange; 
+    display: inline-block;
+    color: #999;
+    padding: 1px;">
+       Me climbing on the wall
+  	</div>
+</center>
+
+
+
+Aside from sports, I have always had a passion for architecture design from a young age. I love playing the game ***Minecraft***, where I would design and build everything from medieval castles to Gothic churches. 
 
 <br/>
 
